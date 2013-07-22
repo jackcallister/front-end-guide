@@ -24,5 +24,4 @@ The Ruby on Rails Front End Development Guide
 
 ### Conclusion
 
-- [Recap](https://github.com/jarsbe/front-end-guide/wiki/recap)
-- [Further resources](https://github.com/jarsbe/front-end-guide/wiki/further-resources)
+- [Recap and more resources](https://github.com/jarsbe/front-end-guide/wiki/recap-and-more-resources)
